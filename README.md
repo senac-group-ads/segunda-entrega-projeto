@@ -3,9 +3,9 @@ Repositório referente a segunda entrega do projeto integrador - 2023
 
 </br>
 
-<p>Abaixo temos a aprensatação do prototipo visual do projeto integratos do terceiro trimestre da turma de ADS.</p>
+<p>Abaixo temos a apresentação do protótipo visual do projeto integrador do terceiro trimestre da turma de ADS.</p>
 
-<p>Foram adcionados as principais telas descritas pelo diagrama de caso de uso da primeira entraga</p>
+<p>Foram adicionadas as principais telas descritas pelo diagrama de caso de uso da primeira entrega</p>
 
 <p align="center">
     <p>Para começar a apresentação do protótipo visual do nosso projeto, nada melhor do que começar pela tela de Login.</p>
