@@ -58,3 +58,18 @@ Repositório referente a segunda entrega do projeto integrador - 2023
     <p>Ao selecionar "continuar" em informações do curso, observamos a tela para seleção das disciplinas desejadas.</p>
     <img alt="Login" src="src/rematrícula-curso.png">
 </p>
+
+<p align="center">
+    <p>Ao selecionar "continuar" em formas de pagamento, observamos a tela para seleção da forma de pagamento desejada.</p>
+    <img alt="Login" src="src/rematrícula-pagamentos.png">
+</p>
+
+<p align="center">
+    <p>Ainda no contexto de rematrícula, abaixo observamos um exemplo da página de dados de pagamento, na modalidade "cartão de crédito".</p>
+    <img alt="Login" src="src/rematrícula-cartão.png">
+</p>
+
+<p align="center">
+    <p>Após a seleção da modalidade de pagamento e a aprovação do mesmo, obteremos a tela de "sucesso" indicando que o procedimento foi bem sucedido.</p>
+    <img alt="Login" src="src/rematrícula-sucesso.png">
+</p>
