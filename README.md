@@ -24,22 +24,37 @@ Repositório referente a segunda entrega do projeto integrador - 2023
 </p>
 
 <p align="center">
-    <p>Também focado no aluno temos a tela da Area de prova, sua função é que o aluno consiga realizar as provas, consultar os resultados e caso aja, ter acesso a notificações sobre a prova.</p>
+    <p>Também focado no aluno temos a tela da Área de prova, sua função é que o aluno consiga realizar as provas, consultar os resultados e caso tenha, ter acesso a notificações sobre a prova.</p>
     <img alt="Login" src="src/Prova.png">
 </p>
 
 <p align="center">
-    <p>A gora a tela de Exercícios, tela onde o aluno fara os exércitos disponibilizado pelos professores, obterá os resultados e também terá notificações especificas para os exercícios.</p>
+    <p>Agora a tela de Exercícios, tela onde o aluno fara os exercícios disponibilizado pelos professores, obterá os resultados e também terá notificações especificas para os exercícios.</p>
     <img alt="Login" src="src/Exercícios.png">
 </p>
 
 
 <p align="center">
-    <p>Já focado nos professores, temos a tela de cadastro de notas, onde o professor terá a cesso a todos os alunos cadastros na sua matéria e poderá definir a nota de cada um.</p>
+    <p>Já focado nos professores, temos a tela de cadastro de notas, onde o professor terá acesso a todos os alunos cadastros na sua matéria e poderá definir a nota de cada um.</p>
     <img alt="Login" src="src/Cadastro de notas.png">
 </p>
 
 <p align="center">
     <p>Temos também a tela de cadastro de fornecedor, onde uma pessoa da coordenação ficara responsável por cadastrar os fornecedores da instituição.</p>
     <img alt="Login" src="src/Cadastro de Fornecedor.png">
+</p>
+
+<p align="center">
+    <p>As páginas abaixo representam as áreas para rematricula, onde o aluno devidamente logado pode realizar o procedimento, abaixo a home.</p>
+    <img alt="Login" src="src/rematrícula-home.png">
+</p>
+
+<p align="center">
+    <p>Ao selecionar "continuar" em dados pessoais, observamos a tela para preenchimento dos dados do aluno.</p>
+    <img alt="Login" src="src/rematrícula-dados.png">
+</p>
+
+<p align="center">
+    <p>Ao selecionar "continuar" em informações do curso, observamos a tela para seleção das disciplinas desejadas.</p>
+    <img alt="Login" src="src/rematrícula-curso.png">
 </p>
